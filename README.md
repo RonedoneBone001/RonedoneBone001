@@ -15,4 +15,4 @@ Python / Flask / SQLite / Ollama / Termux (Android)
 
 ## My Projects
 - [Takcas Prime: Voice Assistant](https://github.com/RonedoneBone001/Takcas-Prime-Voice-Assistant)
-- [Takcas Factory: Multi-Agent IT Factory](https://github.com/RonedoneBone001/Taksas-The-Factory-)
+- [Takcas Factory: Multi-Agent IT Factory](https://github.com/RonedoneBone001/Takcas-The-Factory-)
