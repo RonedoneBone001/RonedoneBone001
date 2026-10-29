@@ -13,5 +13,6 @@ I created Takcas Prime. It's a multi-agent IT factory that runs locally on an 8G
 ## Tech Stack
 Python / Flask / SQLite / Ollama / Termux (Android)
 
-## My Project
-Check out the main repository here: [Takcas Prime](https://github.com/RonedoneBone001/Takcas-Prime-Voice-Assistant)
+## My Projects
+- [Takcas Prime: Voice Assistant](https://github.com/RonedoneBone001/Takcas-Prime-Voice-Assistant)
+- [Takcas Factory: Multi-Agent IT Factory](https://github.com/RonedoneBone001/Taksas-Factory)
